@@ -1,0 +1,22 @@
+{
+  "name": "bakkal-app",
+  "version": "1.0.0",
+  "description": "Bakkal e-commerce project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abidinkofficial/bakkal-ecommerce-app.git"
+  },
+  "author": "Abidin K.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abidinkofficial/bakkal-ecommerce-app/issues"
+  },
+  "homepage": "https://github.com/abidinkofficial/bakkal-ecommerce-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
