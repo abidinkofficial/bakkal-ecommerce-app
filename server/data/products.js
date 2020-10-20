@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Ekmek',
     image: '/images/ekmek.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Çaykur Rize Turist Çayı 1kg',
     image: '/images/caykur-rize-turist.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Dost Süt 1L (Tam yağlı)',
     image: '/images/dost-sut.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Beypazarı Maden Suyu 200ml',
     image: '/images/beypazari.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'Tokai Çakmak',
     image: '/images/tokai-cakmak.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'Ülker Çikolatalı Gofret',
     image: '/images/ulker-cikolatali.jpg',
     description:
