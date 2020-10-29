@@ -6,3 +6,30 @@ body {
 main {
   min-height: 80vh;
 }
+
+h1 {
+  font-size: 1.4rem;
+  padding: 0.1rem;
+}
+
+.list-group-item {
+  background-color: #f9f8fc;
+  color: #17141f;
+}
+
+.list-group-item.active, .list-group-item:hover, .list-group-item:focus {
+  color: #17141f;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.nav-link.active {
+  color: rgba(255,255,255,0.5) !important;
+}
+
+.nav-link:hover {
+  color: rgba(255,255,255,0.9) !important;
+}
