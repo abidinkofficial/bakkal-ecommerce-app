@@ -25,11 +25,3 @@ h1 {
   font-weight: 600;
   font-size: 1.5rem;
 }
-
-.nav-link.active {
-  color: rgba(255,255,255,0.5) !important;
-}
-
-.nav-link:hover {
-  color: rgba(255,255,255,0.9) !important;
-}
